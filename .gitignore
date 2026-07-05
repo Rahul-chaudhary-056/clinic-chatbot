@@ -3,3 +3,4 @@ venv/
 __pycache__/
 clinic_db/
 clinic.db
+ngrok.exe
